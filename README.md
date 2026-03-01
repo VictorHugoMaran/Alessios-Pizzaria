@@ -6,7 +6,9 @@ O site apresenta uma landing page com destaque para o cardápio, navegação sim
 
 ## 📸 Preview
 
-<img width="1900" height="904" alt="Alessios" src="https://github.com/user-attachments/assets/540d0c4a-bb1c-451f-bada-0ea4a8c00f36" />
+
+<img width="1900" height="904" alt="Alessios" src="https://github.com/user-attachments/assets/b1b08fa8-bf51-45fb-a2b2-968309177e20" />
+
 
 ## 🚀 Tecnologias utilizadas
 
